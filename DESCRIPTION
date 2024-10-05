@@ -129,7 +129,7 @@ Suggests:
     VGAM,
     R.rsp,
     testthat (>= 3.0.0)
-Depends: base, stats, R (>= 4.2.0)
+Depends: base, stats, R (>= 4.0.2)
 Imports: graphics, grDevices, methods, MASS, utils, boot, mvtnorm, expm, Rcpp (>= 0.12.10), rstudioapi, Exact, gld, data.table, readxl, haven, httr, withr, cli
 LinkingTo: Rcpp
 License: GPL (>= 2)
